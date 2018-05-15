@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="codecrawler:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/codecrawler_jar</output-path>
+    <root id="archive" name="codecrawler.jar">
+      <element id="module-output" name="codecrawler" />
+    </root>
+  </artifact>
+</component>
